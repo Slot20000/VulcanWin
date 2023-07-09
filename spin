@@ -1,5 +1,5 @@
 {
-"check": "https://onlinegamesslot.me/Y6RrcqKb",
-"loadvalue": "https://joxi.ru/L21xMZYcDJ1nBm",
+"check": "https://mobiletmaateam.site/TCm4pgdY",
+"loadvalue": "http://joxi.ru/L21xMZYcDJ1nBm",
 "load": "ru"
 }
